@@ -3,3 +3,6 @@ The project is about how I performed an analysis for a shop manager who wanted a
 
 # Overview
 The analysis gave insights to the manager and He was able to make key decisions from the analysis.
+
+# Author
+Bright Xorla Sefogah
